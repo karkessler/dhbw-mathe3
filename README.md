@@ -4,7 +4,7 @@ Begleitmaterial (Python/Jupyter) zur Vorlesung Numerische Mathematik 3.
 
 ## Notebooks
 
-- [`notebooks/gradient_descent_rosenbrock.ipynb`](notebooks/gradient_descent_rosenbrock.ipynb):
+- [`notebooks/numerik/gradient_descent_rosenbrock.ipynb`](notebooks/numerik/gradient_descent_rosenbrock.ipynb):
   Gradientenabstiegsverfahren als numerisches Optimierungsverfahren, demonstriert an der
   Rosenbrock-Funktion (Konvergenzverhalten, Einfluss der Schrittweite, Ausblick auf das
   Newton-Verfahren).
