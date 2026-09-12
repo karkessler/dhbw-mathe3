@@ -13,8 +13,11 @@ Alle Notebooks liegen in `notebooks/numerik/` und orientieren sich an der Gliede
   Explizites Euler-Verfahren und Runge-Kutta 4, Stabilität und Konvergenzordnung.
 - [`nullstellenverfahren.ipynb`](notebooks/numerik/nullstellenverfahren.ipynb) (4.3):
   Bisektion und Newton-Verfahren, lineare vs. quadratische Konvergenz.
+- [`gradient_descent_1d.ipynb`](notebooks/numerik/gradient_descent_1d.ipynb) (4.4):
+  Gradientenabstiegsverfahren, Skriptbeispiel $f(x)=x^2-2x+3$ von Hand nachgerechnet
+  (Iterationsfolge, Tangenten-Plot, Schrittweiten-Variation langsam/Skript/oszillierend/divergent).
 - [`gradient_descent_rosenbrock.ipynb`](notebooks/numerik/gradient_descent_rosenbrock.ipynb) (4.4):
-  Gradientenabstiegsverfahren, demonstriert an der Rosenbrock-Funktion (Konvergenzverhalten,
+  Dieselbe Methode als 2D-Erweiterung, demonstriert an der Rosenbrock-Funktion (Konvergenzverhalten,
   Einfluss der Schrittweite, Ausblick auf das Newton-Verfahren).
 
 ## Ausführen
