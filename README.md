@@ -25,3 +25,14 @@ jupyter notebook notebooks/
 ```
 
 Oder direkt über den "Open in Colab"-Link im jeweiligen Notebook.
+
+## Verwandtes Material
+
+Das Gradientenabstiegsverfahren (4.4) wird dort auch im Kontext des Trainings neuronaler
+Netze behandelt:
+
+Keßler, K. (2025).
+*LLM für den Hausgebrauch – Notebooks und Materialien.*
+GitHub: https://github.com/karkessler/llm-hausgebrauch
+Web: https://tutor.kkessler.de/llm
+DOI: https://doi.org/10.5281/zenodo.18293327
