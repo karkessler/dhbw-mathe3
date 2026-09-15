@@ -11,6 +11,9 @@ Alle Notebooks liegen in `notebooks/numerik/` und orientieren sich an der Gliede
   Trapez- und Simpson-Regel, Konvergenzordnung im Vergleich.
 - [`dgl_numerisch.ipynb`](notebooks/numerik/dgl_numerisch.ipynb) (4.2):
   Explizites Euler-Verfahren und Runge-Kutta 4, Stabilität und Konvergenzordnung.
+- [`schwingungsdifferentialgleichung.ipynb`](notebooks/numerik/schwingungsdifferentialgleichung.ipynb) (4.2):
+  Feder-Masse-Oszillator analytisch und mit Runge-Kutta 4; Vergleich von ungedämpfter und
+  gedämpfter Schwingung.
 - [`nullstellenverfahren.ipynb`](notebooks/numerik/nullstellenverfahren.ipynb) (4.3):
   Bisektion und Newton-Verfahren, lineare vs. quadratische Konvergenz.
 - [`gradient_descent_1d.ipynb`](notebooks/numerik/gradient_descent_1d.ipynb) (4.4):
