@@ -31,7 +31,7 @@ numerischen Experimenten und Visualisierungen.
 ## Voraussetzungen und Ausführung
 
 Benötigt werden Python 3 sowie die in [`requirements.txt`](requirements.txt)
-aufgeführten Pakete: NumPy, Matplotlib und SymPy.
+aufgeführten Pakete: NumPy, Matplotlib, SymPy und ipywidgets.
 
 ```bash
 python -m pip install -r requirements.txt
