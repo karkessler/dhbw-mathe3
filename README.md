@@ -40,6 +40,7 @@ numerischen Experimenten und Visualisierungen.
 | [`03_schwingungsdifferentialgleichung.ipynb`](notebooks/numerik/03_schwingungsdifferentialgleichung.ipynb) | Modelliert ein Feder-Masse-System analytisch und mit Runge-Kutta 4 und stellt ungedämpfte und gedämpfte Schwingungen gegenüber. | [`PDF`](notebooks/numerik/03_schwingungsdifferentialgleichung.pdf) |
 | [`04_gradient_descent_1d.ipynb`](notebooks/numerik/04_gradient_descent_1d.ipynb) | Rechnet den Gradientenabstieg für eine eindimensionale quadratische Funktion Schritt für Schritt nach und visualisiert Iterationen, Tangenten und Schrittweiten. | [`PDF`](notebooks/numerik/04_gradient_descent_1d.pdf) |
 | [`05_gradient_descent_rosenbrock.ipynb`](notebooks/numerik/05_gradient_descent_rosenbrock.ipynb) | Überträgt den Gradientenabstieg auf die Rosenbrock-Funktion und zeigt den Einfluss der Lernrate sowie die Grenzen des Verfahrens. | [`PDF`](notebooks/numerik/05_gradient_descent_rosenbrock.pdf) |
+| [`06_newton_mehrdimensional.ipynb`](notebooks/numerik/06_newton_mehrdimensional.ipynb) | Behandelt das mehrdimensionale Newton-Verfahren für Gleichungssysteme mit Jacobi-Matrix (Kreis und Hyperbel) sowie zur Minimierung mit Hesse-Matrix an der Rosenbrock-Funktion im Vergleich zum Gradientenabstieg. | [`PDF`](notebooks/numerik/06_newton_mehrdimensional.pdf) |
 
 ## Voraussetzungen und Ausführung
 
