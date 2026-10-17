@@ -30,7 +30,7 @@ numerischen Experimenten und Visualisierungen.
 | [`04_richtungsableitung.ipynb`](notebooks/funktionen_mehrerer_veraenderlicher/04_richtungsableitung.ipynb) | Abschnitt 2.5: Richtungsableitung und Satz 2.5.2 (mit Gegenbeispiel ohne C¹), maximale Steigung in Gradientenrichtung, Richtungsableitung über dem Winkel und Gradientenabstieg. | [`PDF`](notebooks/funktionen_mehrerer_veraenderlicher/04_richtungsableitung.pdf) |
 | [`05_tangentialebene_totales_differential.ipynb`](notebooks/funktionen_mehrerer_veraenderlicher/05_tangentialebene_totales_differential.ipynb) | Abschnitt 2.6: Tangentialebene als lineare Näherung, totales Differential und Fehler der Näherung, Anwendung auf die Fehlerfortpflanzung bei Messwerten. | [`PDF`](notebooks/funktionen_mehrerer_veraenderlicher/05_tangentialebene_totales_differential.pdf) |
 
-Python-Code zur Präsentation „Gradient, Niveaulinien und Gradientenverfahren“ (Gradientenverfahren und 3D-Grafiken) liegt im Ordner [`gradient_niveaulinien`](notebooks/funktionen_mehrerer_veraenderlicher/gradient_niveaulinien/).
+Präsentation, Python-Code und ein Notebook zu Gradient, Niveaulinien und Gradientenverfahren (mit Bezug zum Training neuronaler Netze) liegen im Repository [llm-hausgebrauch](https://github.com/karkessler/llm-hausgebrauch/tree/main/zusatzmaterial): [Präsentation (PDF)](https://github.com/karkessler/llm-hausgebrauch/blob/main/zusatzmaterial/Gradient_und_Niveaulinien.pdf), [Python-Code](https://github.com/karkessler/llm-hausgebrauch/tree/main/zusatzmaterial/gradient_niveaulinien), [Notebook](https://github.com/karkessler/llm-hausgebrauch/blob/main/notebooks/gradientenverfahren_niveaulinien.ipynb).
 
 ### Numerik und Optimierung
 
