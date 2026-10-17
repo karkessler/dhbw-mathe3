@@ -1,0 +1,5 @@
+# Lokale Dateien (IDE, Python-Umgebung und -Cache, Arbeitsordner)
+.idea/
+.venv/
+__pycache__/
+Claude outputs/
