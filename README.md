@@ -30,6 +30,8 @@ numerischen Experimenten und Visualisierungen.
 | [`04_richtungsableitung.ipynb`](notebooks/funktionen_mehrerer_veraenderlicher/04_richtungsableitung.ipynb) | Abschnitt 2.5: Richtungsableitung und Satz 2.5.2 (mit Gegenbeispiel ohne C¹), maximale Steigung in Gradientenrichtung, Richtungsableitung über dem Winkel und Gradientenabstieg. | [`PDF`](notebooks/funktionen_mehrerer_veraenderlicher/04_richtungsableitung.pdf) |
 | [`05_tangentialebene_totales_differential.ipynb`](notebooks/funktionen_mehrerer_veraenderlicher/05_tangentialebene_totales_differential.ipynb) | Abschnitt 2.6: Tangentialebene als lineare Näherung, totales Differential und Fehler der Näherung, Anwendung auf die Fehlerfortpflanzung bei Messwerten. | [`PDF`](notebooks/funktionen_mehrerer_veraenderlicher/05_tangentialebene_totales_differential.pdf) |
 
+Python-Code zur Präsentation „Gradient, Niveaulinien und Gradientenverfahren“ (Gradientenverfahren, Musterlösung zu Aufgabe 6.4, 3D-Grafiken) liegt im Ordner [`gradient_niveaulinien`](notebooks/funktionen_mehrerer_veraenderlicher/gradient_niveaulinien/).
+
 ### Numerik und Optimierung
 
 | Notebook | Inhalt | Statische Version |
